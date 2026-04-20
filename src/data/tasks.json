@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "title": "Design homepage UI",
+      "description": "Create a modern and responsive homepage design",
+      "status": "in-progress",
+      "priority": "high",
+      "dueDate": "2026-04-25",
+      "assignedTo": "Rabbi",
+      "createdAt": "2026-04-20T09:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Fix login bug",
+      "description": "Resolve authentication issue on login page",
+      "status": "pending",
+      "priority": "high",
+      "dueDate": "2026-04-22",
+      "assignedTo": "Arafat",
+      "createdAt": "2026-04-19T14:30:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Setup database",
+      "description": "Initialize MongoDB and create schema models",
+      "status": "completed",
+      "priority": "medium",
+      "dueDate": "2026-04-18",
+      "assignedTo": "Nusrat",
+      "createdAt": "2026-04-17T10:15:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Implement API endpoints",
+      "description": "Build REST API for tasks and users",
+      "status": "in-progress",
+      "priority": "medium",
+      "dueDate": "2026-04-27",
+      "assignedTo": "Sakib",
+      "createdAt": "2026-04-20T07:45:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Write documentation",
+      "description": "Prepare project documentation and README",
+      "status": "pending",
+      "priority": "low",
+      "dueDate": "2026-04-30",
+      "assignedTo": "Jannat",
+      "createdAt": "2026-04-18T16:00:00Z"
+    }
+  ]
